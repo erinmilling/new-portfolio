@@ -164,7 +164,7 @@ a:focus, img:focus, button:focus, .btn:focus {outline: none;}
 
 ::selection {background-color: #fb5353;color: #fff;text-shadow: none;}
 
-@font-face {font-family: 'Courier-new'}
+@font-face {font-family: 'Cutive Mono', monospace;}
 
 /*===== Header ===*/
 
