@@ -258,9 +258,9 @@ footer[role="footer"] .copy-right{ text-align:center; display:block; font-size:1
 
 /*===== About ===*/
 
-main[role="main-inner-wrapper"] .about-content{ background-color:#647F84; padding-top:57px; padding-left:70px; padding-right:67px; padding-bottom:58px}
+main[role="main-inner-wrapper"] .about-content{ background-color:#647F84; padding-top:57px; padding-left:57px; padding-right:57px; padding-bottom:40px}
 
-main[role="main-inner-wrapper"] .about-content p{ font-size:17px; line-height:30px; color:#FFF; padding-bottom:20px}
+main[role="main-inner-wrapper"] .about-content p{ font-size:17px; line-height:25px; color:#FFF; padding-bottom:0; padding-top: 20px}
 
 main[role="main-inner-wrapper"] .thumbnails-pan{ padding-top:30px}
 
