@@ -258,7 +258,7 @@ footer[role="footer"] .copy-right{ text-align:center; display:block; font-size:1
 
 /*===== About ===*/
 
-main[role="main-inner-wrapper"] .about-content{ background-color:#647F84; padding-top:57px; padding-left:57px; padding-right:57px; padding-bottom:40px}
+main[role="main-inner-wrapper"] .about-content{ background-color:#647F84; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:40px}
 
 main[role="main-inner-wrapper"] .about-content p{ font-size:17px; line-height:25px; color:#FFF; padding-bottom:0; padding-top: 20px}
 
